@@ -30,4 +30,4 @@ In 2014, he began to pursue his PhD at the University of Cambridge and to work w
 
 In 2019, Dr Chen joined the Faculty of Asian and Middle Eastern Studies to carry out his postdoctoral research. He is currently completing his book titled The Making of America's Maritime Order in Cold War East Asia: Sovereignty, Local Interests, and International Security. In 2020, Dr Chen was selected as a Fellow of the Gilder Lehrman Institute of American History.
 
-<a href="mailto:robin70202@gmail.com">E-mail Dr.Chen</a>
+<a href="mailto:robin70202@gmail.com">E-mail Dr Kuan-Jen Chen</a>
