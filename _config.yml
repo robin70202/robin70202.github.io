@@ -30,7 +30,6 @@ plugins:
 
 header_pages:
   - index.md
-  # - oxDNN.md
   - publications.md
   - resume.md
   - news.md
