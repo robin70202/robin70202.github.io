@@ -18,7 +18,7 @@ description: >- # this means to ignore newlines until "baseurl:"
    Isaac Newton Trust Postdoctoral Research Associate. University of Cambridge
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://google.com" # the base hostname & protocol for your site, e.g. http://example.com
-google_analytics:
+google_analytics: G-JX5L1K5KXS
 twitter_username: robin70202
 email: robin70202@gmail.com
 
