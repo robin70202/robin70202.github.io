@@ -9,7 +9,7 @@ permalink: /
 
 <style>
 img {
-    margin: 60px 30px 50px 0px;
+    margin: 60px 30px 90px 0px;
     max-width: 350px;
     height: auto;
     float: left;
@@ -32,4 +32,3 @@ In 2019, Dr Chen joined the Faculty of Asian and Middle Eastern Studies to carry
 
 
 
-<a href="mailto:robin70202@gmail.com">E-mail Dr Kuan-Jen Chen</a>
