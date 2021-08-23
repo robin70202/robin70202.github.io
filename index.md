@@ -18,7 +18,7 @@ img {
 
 <div>
     <p>
-        <img src="media/IMG_4227.png">
+        <img src="media/IMG_4227.JPG">
     </p>
 </div>
 
