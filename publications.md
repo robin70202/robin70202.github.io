@@ -12,7 +12,7 @@ permalink: /research/
 
 ### Journals
 
-*    “Projecting Poseidon’s Trident: America’s East Asia and the Shifting Contours of 1950s Postwar Naval Policy.” *Cold War History* [\[Link\]](https://www.tandfonline.com/doi/full/10.1080/14682745.2020.1752676)
+*    “Projecting Poseidon’s Trident: America’s East Asia and the Shifting Contours of 1950s Postwar Naval Policy.” *Cold War History* 21:4 (November 2021), pp. 391-410. [\[Link\]](https://www.tandfonline.com/doi/full/10.1080/14682745.2020.1752676)
 
 *    “Fishing for Oil: Natural-Resource Management between the United States and Maritime East Asia in the 1970s.” *The Journal of American-East Asian Relations* 27:2(July, 2020), pp. 169-197. [\[Link\]](https://doi.org/10.1163/18765610-02702004)
 
