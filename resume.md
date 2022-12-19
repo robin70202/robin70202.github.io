@@ -1,8 +1,8 @@
 ---
 layout: default
-title: CV
+title: Resume
 permalink: /media/resume.pdf
 ---
-# CV
+# Resume
 
 <a href="/resume.pdf">My resume</a>
