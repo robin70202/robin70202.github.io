@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resume
+title: CV
 permalink: /media/resume.pdf
 ---
 # Resume
