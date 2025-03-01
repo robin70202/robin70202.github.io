@@ -9,7 +9,7 @@ permalink: /
 
 <style>
 img {
-    margin: 60px 30px 70px 0px;
+    margin: 50px 20px 60px 0px;
     max-width: 350px;
     height: auto;
     float: left;
