@@ -32,7 +32,6 @@ permalink: /research/
 *    Co-translator and professional editor, Kushner, Barak. *Men to Devils, Devils to Men: Japanese War Crimes and Chinese Justice.* Taipei: Walkers Publisher, 2021. 
       - The best translation of the 2021 Openbook award in Taiwan
 
-
 *    Kushner, Barak. “Handling the Post-war Victory: The Stances on Justice between Kuomintang, Japan, and Chinese Communist Party,” *The Journal of History, NCCU,* 50(November 2018), pp. 143-174. 
 
 *    Paulès, Xavier. “News Items under Scrutiny: Yuehuabao and Canton Daily Life (1927-1938),” in Lien, Ling-ling., ed., *Wanxiang xiangbao: jindai Zhongguo chengshi de wenhua, shehui yu zhengzhi.* (All-Seeing Tabloid Newspaper: Modern Chinese Urban Culture, Society and Politics) Taipei: Institute of Modern History, Academia Sinica, 2013, pp. 335-365.
