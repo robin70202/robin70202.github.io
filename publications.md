@@ -10,9 +10,8 @@ permalink: /research/
 
 *    *Charting America’s Cold War Waters in East Asia: Sovereignty, Local Interests, and International Security.* Cambridge: Cambridge University Press, 2024.
   
-       - Winner of the 41st Masayoshi Ōhira Memorial Prize
-       - Finalist of the 2025 CPH Book Prize
-
+       - Winner of the 41st Masayoshi Ōhira Memorial Prize, Japan.
+       - Finalist of the 2025 CPH Book Prize, Southern Methodist University, United States.
 
 ### Journal Articles
 
