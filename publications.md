@@ -12,18 +12,34 @@ permalink: /research/
   
        - Winner of the 41st Masayoshi Ōhira Memorial Prize, Japan.
        - Finalist of the 2025 CPH Book Prize, Southern Methodist University, United States.
+       - Finalist for the 2025 CPH Book Prize, Southern Methodist University, United States, 2025.
 
+  Reviewed by 
+
+          W. Taylor Fain in Diplomatic History 49:4 (2025): 627–630.
+          Jan Asmussen in Asian Studies Review 49 (2025): 917–919.
+          Leander Seah in The Journal of Military History 89:2 (2025): 518–519.
+          Covell Meyskens in The Journal of Cold War Studies 27:3 (2025): 283–285.
+          Jason M. Kelly in The Journal of Asian Studies 85:1 (2026): 194–196.
+          Jiashu Hu in H-Diplo, H-Net Reviews. April, 2026.
+          James Lee in 《中央研究院近代史研究所集刊》(Bulletin of the Institute of Modern History 
+          Academia Sinica) 132 (2026): 157–163.
+   
 ### Journal Articles
 
-*    “Projecting Poseidon’s Trident: America’s East Asia and the Shifting Contours of 1950s Postwar Naval Policy.” *Cold War History* 21:4 (November 2021), pp. 391-410.
+*    “Strange bedfellows: Chiang Kai-shek and his imaginary cold warriors, 1949–54.” *Cold War History* 26:2 (2026), pp. 217-237.
      
-*    “Fishing for Oil: Natural-Resource Management between the United States and Maritime East Asia in the 1970s.” *The Journal of American-East Asian Relations* 27:2(July, 2020), pp. 169-197.
+*    “Imperium in Imperio: G.I. Joe’s Jurisdiction in Early Cold War Taiwan.” *The Journal of Military History* 89:4(2025), pp. 1006-1026.
+
+*    “Projecting Poseidon’s Trident: America’s East Asia and the Shifting Contours of 1950s Postwar Naval Policy.” *Cold War History* 21:4 (2021), pp. 391-410.
+     
+*    “Fishing for Oil: Natural-Resource Management between the United States and Maritime East Asia in the 1970s.” *The Journal of American-East Asian Relations* 27:2(2020), pp. 169-197.
    
-*    “Zhonghua minguo yu guoji haiyangfa huiyi, 1958-1971,” (中華民國與國際海洋法會議, 1958-1971, The Republic of China and the United Nations Conferences on the Law of the Sea, 1958-1972) *Lengzhan guojishi yanjiu* (冷戰國際史研究, Cold War International History Studies) 15(November 2013), pp. 93-136.
+*    “Zhonghua minguo yu guoji haiyangfa huiyi, 1958-1971,” (中華民國與國際海洋法會議, 1958-1971, The Republic of China and the United Nations Conferences on the Law of the Sea, 1958-1972) *Lengzhan guojishi yanjiu* (冷戰國際史研究, Cold War International History Studies) 15(2013), pp. 93-136.
 
-*    “Mengjunzongbu yu Zhongri yuquan zhengyi, 1945-1952,” (盟軍總部與中日漁權爭議, 1945-52, The Issue of Fishing Rights amongst General Headquarters, the Republic of China, and Japan, 1945-1952) *Guoshiguan guankan* (國史館館刊, Bulletin of Academia Historica) 27(March 2011), pp. 45-108.
+*    “Mengjunzongbu yu Zhongri yuquan zhengyi, 1945-1952,” (盟軍總部與中日漁權爭議, 1945-52, The Issue of Fishing Rights amongst General Headquarters, the Republic of China, and Japan, 1945-1952) *Guoshiguan guankan* (國史館館刊, Bulletin of Academia Historica) 27(2011), pp. 45-108.
 
-*    “Nikka dankō-go no kōkū kōshō, 1972-1975,” (日華断交後の航空交涉─1972～75年─, The Bilateral Negotiations of Airline after Japan and the Republic of China Broke off Diplomatic Relations, 1972-1975) *Chikaki ni arite* (近きに在りて, Being Nearby—Discussions on Modern China—) 56(November 2009), pp. 93-116.
+*    “Nikka dankō-go no kōkū kōshō, 1972-1975,” (日華断交後の航空交涉─1972～75年─, The Bilateral Negotiations of Airline after Japan and the Republic of China Broke off Diplomatic Relations, 1972-1975) *Chikaki ni arite* (近きに在りて, Being Nearby—Discussions on Modern China—) 56(2009), pp. 93-116.
 
 
 ### Translations (from English to Chinese)
