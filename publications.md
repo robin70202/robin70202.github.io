@@ -13,18 +13,7 @@ permalink: /research/
        - Winner of the 41st Masayoshi Ōhira Memorial Prize, Japan.
        - Finalist of the 2025 CPH Book Prize, Southern Methodist University, United States.
        - Finalist for the 2025 CPH Book Prize, Southern Methodist University, United States, 2025.
-
-  Reviewed by 
-
-          W. Taylor Fain in Diplomatic History 49:4 (2025): 627–630.
-          Jan Asmussen in Asian Studies Review 49 (2025): 917–919.
-          Leander Seah in The Journal of Military History 89:2 (2025): 518–519.
-          Covell Meyskens in The Journal of Cold War Studies 27:3 (2025): 283–285.
-          Jason M. Kelly in The Journal of Asian Studies 85:1 (2026): 194–196.
-          Jiashu Hu in H-Diplo, H-Net Reviews. April, 2026.
-          James Lee in 《中央研究院近代史研究所集刊》(Bulletin of the Institute of Modern History 
-          Academia Sinica) 132 (2026): 157–163.
-   
+         
 ### Journal Articles
 
 *    “Strange bedfellows: Chiang Kai-shek and his imaginary cold warriors, 1949–54.” *Cold War History* 26:2 (2026), pp. 217-237.
